@@ -11,3 +11,6 @@
 S4HANA-Migration/S4HANA-Migration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hello, I am looking for co-authors/partners for the project "Data migration to S/4HANA" 
+who have technical coding skills. If you are interested in cooperation, please write to me.
+M.Zelewski
